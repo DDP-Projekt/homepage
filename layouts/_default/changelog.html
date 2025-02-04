@@ -6,7 +6,7 @@
     {{ $url := "https://raw.githubusercontent.com/DDP-Projekt/Kompilierer/refs/heads/master/CHANGELOG.md" }}
     {{ with resources.GetRemote $url }}
         {{ .Content 
-            | replaceRE `\[(\w+)] ` "<span class='tag $1'>$1</span> "
+            | replaceRE `- \[([^\]]+)] ` "- <span class='tag $1'>$1</span> "
             | markdownify 
         }}
     {{ else }}

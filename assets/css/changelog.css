@@ -39,16 +39,16 @@ ul ul {
     padding-right: .5rem;
 }
 
-.Added {
+.Neu {
     background-color: #32b643;
     color: white;
 }
 
-.Changed  {
+.Anders {
     background-color: #ffb700;
 }
 
-.Removed {
+.Entfernt {
     background-color: #9c2703;
     color: white;
 }

@@ -1,7 +1,25 @@
 +++
-play = 'https://spiel.ddp.im/embed?code=RGllIFphaGwgeiBpc3QgMTMuIFsgbG9uZyB6ID0gMTMgXQpFcmjDtmhlIHogdW0gNcQgeiArPSA1IF0KCsQ%2FS29tbWF6xERrxUQ0LDMyxCZkb3VibGUgayA9IDQuMzIgXQpWZXJyaW5nZXLEFnVtIDDHKmsgLT0gMMYkCkRlciBCdWNoc3RhYmUgYsVTJ2cnxChjaGFyIGIgPcQQIF0KU3BlaWNoxE4oYiBhbHPmAMlsb2dpc2NoIGtvbnRyYSAzMinFHMpTaW4gYsROxEliXsp1VGV4dCB0xXAiSGFsbG8hIsQnc3TkALQgdCA9yRfNfHQgdmVya2V0dGV0IG1pdCAiIEhleSEixGd0xEDEOXQgK8kYx25XYWhyaGVpdHN3ZXJ0IGJvb2zFendhaHLENsQRZWFuxhk9IHRydWUgXQpOZWdpxHTEFsgmID0gIcUI5wGP5AEFZW4gTGlzdGUgbMUGxFllaW5lxhUsIGRpZSBhdXMgMywgNSwgOCBiZXN0ZWjlAK7EIjzkAgA%2Bxzw9IHvHJ33tAPfGHu4A%2BzDkAPXFGcRLyEBhcHBlbmQoxQ8sIDApIF0K&nolines&readonly'
+play = 'https://spiel.ddp.im/embed/?share=93467b76-3bc3-4614-ab10-9fe5d84f949f&nolines&readonly'
 weight = 0
 +++
+
+<!--
+Binde "Duden/Ausgabe" ein.
+
+Die Zahl zahl ist 10.
+Die Kommazahl kommazahl ist 5,4.
+Der Text text ist "Hallo!".
+Der Buchstabe buchstabe ist 'A'.
+Der Wahrheitswert boolean ist wahr.
+Die Zahlen Liste liste ist eine Liste, die aus 1, 8, 7 besteht.
+
+Schreibe die Zahl zahl auf eine Zeile.
+Schreibe die Kommazahl kommazahl auf eine Zeile.
+Schreibe den Text text auf eine Zeile.
+Schreibe den Buchstaben buchstabe auf eine Zeile.
+Schreibe den Wahrheitswert boolean auf eine Zeile.
+Schreibe die Zahlen Liste liste auf eine Zeile.
+-->
 
 # Variablen und Datentypen
 `int`, `float`, `double`, `string`, `LPCWSTR` und `HGDIOBJ`. Niemand kann sich diese Namen merken. DDP löst dieses Problem mit einfachen Deutschen Datentypnamen.
